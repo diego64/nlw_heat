@@ -1,4 +1,4 @@
-<h1 align="center">👨🏾‍🚀🚀 NextLevelWeek - Heat</h1>
+<h1 align="center">NextLevelWeek - Heat</h1>
 
 <div align="center">
 
@@ -56,5 +56,5 @@ Disponibilizado pela Rocketseat e utilizado como base para o projeto:
 
 ---
 <p align="center">
-  Made with 💘 by Erebor 👋🏾
+ Diego Ferreira L.G.Oliveira 👋🏾
 </p>
