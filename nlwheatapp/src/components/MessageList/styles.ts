@@ -2,10 +2,13 @@ import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
   container: {
-    paddingHorizontal: 20,
+    flex: 1,
+    paddingHorizontal: 20
   },
   content: {
-      paddingTop: 135,
-      paddingBottom: 184
+    //paddingTop: 135,
+    paddingTop: 30,
+    paddingBottom: 184
   }
 });
+
